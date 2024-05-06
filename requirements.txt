@@ -11,3 +11,4 @@ tiktoken
 OpenAI
 Chroma
 chromadb
+sqlite3==3.35.0
