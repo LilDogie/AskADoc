@@ -1,13 +1,5 @@
-numpy
-pandas
-matplotlib
-scikit-learn
 streamlit
-Pillow
-seaborn
 langchain
 openai
-OpenAI
-pysqlite
-Chroma
 chromadb
+tiktoken
