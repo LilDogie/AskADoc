@@ -8,6 +8,5 @@ seaborn
 langchain
 openai
 OpenAI
-sqlite3
 Chroma
 chromadb
