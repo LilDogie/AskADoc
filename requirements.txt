@@ -9,6 +9,6 @@ langchain
 openai
 tiktoken
 OpenAI
+sqlite3==3.35.0
 Chroma
 chromadb
-sqlite3==3.35.0
