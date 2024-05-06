@@ -7,7 +7,6 @@ Pillow
 seaborn
 langchain
 openai
-tiktoken==0.55.2
 OpenAI
 sqlite3
 Chroma
